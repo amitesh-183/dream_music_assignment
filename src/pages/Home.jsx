@@ -1,6 +1,6 @@
-import React, { useEffect, useState } from "react";
-import List from "../components/common/list";
+import { useEffect, useState } from "react";
 import MusicPlayer from "../components/common/MusicPlayer";
+import List from "../components/common/List";
 import Header from "../components/Header";
 import Sidebar from "../components/Sidebar";
 import {
